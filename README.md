@@ -1,4 +1,4 @@
-Newbie:
+Newbie:	
 -https://fedoraproject.org/
 -https://pop.system76.com/
 -https://ubuntu.com/
